@@ -2,6 +2,8 @@
 
 This is the code for "Flexible Streaming Temporal Action Segmentation with Diffusion Models".
 
+![avatar](Model.png)
+
 ## Environment preparation
 
 - Linux Ubuntu 22.04+
